@@ -1,0 +1,48 @@
+
+
+#header {
+    width: 710px;
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+
+
+.container{
+    display: flex;
+
+
+}
+
+.menu{
+    height: 600px;
+    width: 200px;
+    background: cyan;
+}
+
+.container-post{
+    width: 40%;
+    flex-direction: column;
+}
+
+.post{
+    background:plum;
+    height: 49.2%;
+    width: 500px;
+    display: flex;
+    margin-left:10px;
+}
+
+
+
+
+#footer {
+    width: 710px;
+    height: 100px;
+    background-color: bisque;
+    margin-top: 10px;
+}
+
+.mb10{
+    margin-bottom:10px;
+}

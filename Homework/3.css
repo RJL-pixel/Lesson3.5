@@ -1,0 +1,28 @@
+#widgets {
+    width: 600px;
+    height: 250px;
+    background-color: cornflowerblue;
+    margin-bottom: 15px;
+}
+
+#cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    width: 600px;
+
+}
+
+.post {
+    height: 190px;
+    width: 30%;
+    background-color: #073a94;
+
+}
+
+#contact{
+    width: 600px;
+    height: 500px;
+    background-color: cornflowerblue;
+}
+

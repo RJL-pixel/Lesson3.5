@@ -1,0 +1,45 @@
+#header{
+    width: 500px;
+    height: 150px;
+    background-color: #0448c0;
+    margin-bottom: 2px;
+
+}
+
+#nav {
+    width: 500px;
+    height: 100px;
+    background-color: cornflowerblue;
+    margin-bottom:2px;
+}
+
+#cont{
+    display: flex;
+    width: 500px;
+    justify-content: space-between;
+
+
+
+}
+
+#main{
+    height: 400px;
+    width: 79.5%;
+    background-color: #28c0c0;
+
+}
+#aside{
+    height: 400px;
+    width: 20%;
+    background-color: plum;
+
+}
+
+#footer{
+    height: 100px;
+    width: 500px;
+    background-color: turquoise;
+    margin-top: 2px;
+}
+
+

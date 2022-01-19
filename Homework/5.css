@@ -15,11 +15,44 @@ body{
 }
 
 .post{
-
-    width: 400px;
+display: flex;
+    width: 600px;
     height: 150px;
     background-color: white;
-    margin-right: 20px;
-    margin-bottom: 20px;
+    margin-right: 30px;
+    margin-bottom: 30px;
     border-radius: 8px;
+}
+
+.far, .fab, .fas{
+    font-size: 50px;
+    color: silver;
+    padding: 45px;
+}
+
+
+.cont-text{
+    display: block;
+}
+
+.cont-text>div:first-child{
+    color: orange;
+    font-size: 25px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-weight: 600;
+    font-family: "Calibri", sans-serif;
+
+}
+
+.cont-text>div:last-child{
+    color: #332e2e;
+    font-family: "Calibri", sans-serif ;
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+
+.fab{
+    font-size: 65px;
 }

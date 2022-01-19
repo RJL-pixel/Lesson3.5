@@ -1,0 +1,31 @@
+#c1{
+    display: flex;
+    width: 430px;
+    justify-content: space-between;
+}
+
+.A{
+    width: 205px;
+    height: 400px;
+    background-color: cornflowerblue;
+    margin-bottom: 15px;
+}
+
+#B{
+    width: 430px;
+    background-color: cornflowerblue;
+    height: 200px;
+}
+
+#c2{
+    display: flex;
+    justify-content: space-between;
+    width: 430px;
+}
+
+.C{
+    margin-top: 15px;
+    width: 30%;
+    height: 200px;
+    background-color: #0b56dc;
+}

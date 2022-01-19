@@ -1,0 +1,42 @@
+#c1{
+    width: 700px;
+}
+
+#A{
+    width: 700px;
+    height: 250px;
+    background-color: silver;
+    margin-bottom: 10px;
+}
+
+#c2{
+    flex-wrap: wrap;
+    display: flex;
+
+
+}
+#B{
+    width: 74% ;
+    height: 210px;
+    background-color: silver;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+
+#C{
+    height: 400px;
+    width: 24%;
+    background-color: silver;
+}
+
+
+.D{
+    background-color: silver;
+
+    width: 165px;
+    height: 180px;
+    margin-right: 10px;
+    position: relative;
+    bottom: 180px;
+}

@@ -1,0 +1,36 @@
+#A{
+    width: 900px;
+    height: 250px;
+    background-color: silver;
+    margin-bottom: 10px;
+
+
+}
+#c1{
+    width: 1100px;
+    display: flex;
+}
+
+#c2{
+    display: flex;
+    width: 630px;
+    flex-wrap: wrap;
+
+}
+
+.post{
+
+    width: 200px;
+    height: 200px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: silver;
+}
+
+.D{
+    width: 270px;
+    height: 410px;
+    display: flex;
+    background-color: silver;
+
+}
